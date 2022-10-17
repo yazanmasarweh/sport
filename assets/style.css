@@ -59,7 +59,7 @@ input[type="search"]::-webkit-search-results-decoration {
 /*  عناصر تاخذ الون الثنوي ك خلفية*/
 .contact-footer form button,.carouse-club .carousel-item::before,.line,.hamburger,.item-slider ul li a:hover,
 .nav-box li.active,.btn-show:hover,.hamburger,.last-news-slide .tag-type,.tag-card,.navigation ul li a,
-.nav-top .language-nav,.dropdown-item:active,.img-user span.user-info .list-group-item:hover,.user-info .list-group-item:active{
+.nav-top .language-nav,.dropdown-item:active,.img-user span,.user-info .list-group-item:hover,.user-info .list-group-item:active{
     background-color: var(--colorThree);
 }
 /*  عناصر تاخذ الون الثنوي ك نص*/
